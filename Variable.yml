@@ -1,0 +1,8 @@
+minimum_delay_to_follow : 10
+maximum_delay_to_follow : 50
+each_delay_to_load_or_refresh : 10
+minimum_delay_scroll_down : 1
+maximum_delay_scroll_down : 5
+number_of_accounts_to_be_found_in_followers_tab : 60
+username : YOUR_USERNAME
+password : YOUR_PASSWORD
